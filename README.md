@@ -81,8 +81,8 @@ Enter Employee ID: 212225410118
 Enter Basic Pay: 200000
 
 --- Employee Salary Report ---
-Employee Name: Nagaraj S
-Employee ID: 212225410118
+Employee Name: Praveen B
+Employee ID: 212225410137
 Basic Pay: 200000.0
 HRA: 15000.0
 DA: 10000.0
