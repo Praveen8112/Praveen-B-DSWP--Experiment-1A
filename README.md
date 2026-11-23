@@ -76,8 +76,8 @@ print(f"Net Salary: {net}")
 
 ## Output
 ```
-Enter Employee Name: Santhosh M
-Enter Employee ID: 212225410118
+Enter Employee Name: Praveen B
+Enter Employee ID: 212225410137
 Enter Basic Pay: 200000
 
 --- Employee Salary Report ---
